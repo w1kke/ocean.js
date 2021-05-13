@@ -37,7 +37,7 @@ cat > index.js
 # On linux press CTRL + D to save
 ```
 
-## 3. Install dependancies
+## 3. Install dependencies
 
 Open the package.json file in a text editor and update the dependancies to include the following: 
 
